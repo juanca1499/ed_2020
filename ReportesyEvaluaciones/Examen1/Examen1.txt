@@ -1,0 +1,33 @@
+Para el examen práctico en el primer programa cree las siguientes clases:
+
+AnalizadorTexto (paquete utilidades).
+	public static void analizarTexto(String cadena)
+	public static void analizarTexto(Arreglo datos)
+	private static boolean expresionApertura(String token)
+	private static boolean caracteresAperturaCierre(String expresionApertura, String expresionCierre)
+	private static boolean expresionCierre(String token)
+
+
+TipoTexto (paquete utilidades).
+	public int getId()
+        public void setId(int id) 
+    	public String getNombre() 
+        public void setNombre(String nombre)
+	
+
+PantallaAnalizadorTexto (paquete vistas).
+	public static TipoTexto pedirTipoTexto()
+	public static String perdirDatos(TipoTexto tipo)
+        public static void imprimirError(CaracterLinea error, String expresionOrg)
+        public static void imprimirBienEscrita()
+
+
+CaracterLinea(paquete utilidades).
+	public int getLinea()
+	public int getCaracter()    
+	public String getExpresion()
+
+
+PruebaAnalizadorTexto (paquete interfaces) ES EL MAIN.
+
+LeerArchivo(paquete entradasalida.archivos) ARCHIVO PROPORCIONADO POR EL PROFESOR.

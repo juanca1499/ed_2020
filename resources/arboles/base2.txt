@@ -1,0 +1,115 @@
+ID empleado	Apellido	Nombre	Seccional	Facultad	Cargo	Salario	Fch comienzo	Fch nacimiento
+1055	Hoyos	Adriana	Bogotá	Derecho	Docente	$3,200,000 	4/8/1991	8/20/1967
+1152	Peláez	Alberto	Medellín	Administración	Docente	$1,350,000 	1/21/1990	10/23/1965
+1310	Florez	Alejandra	Medellín	Medicina	Técnico	$1,350,000 	10/4/1986	11/2/1964
+1816	Simanca	Alejandro	Monteria	Ingeniería	Aux. Administrativo	$1,600,000 	7/8/1990	9/1/1969
+1724	Guerrero	Alexandra	Medellín	Diseño	Docente	$2,300,000 	2/10/1978	5/22/1954
+1334	Perez	Alicia	Bucaramanga	Ingeniería	Aux. Administrativo	$1,350,000 	4/8/1990	10/18/1965
+1041	Gutierrez	Amalia	Medellín	Medicina	Docente	$4,900,000 	4/16/1992	1/25/1965
+1068	Vergara	Amalia	Medellín	Ingeniería	Docente	$3,200,000 	9/12/1987	10/11/1961
+1976	Jaramillo	Ana	Medellín	Ingeniería	Aux. Administrativo	$1,350,000 	4/29/1991	10/9/1970
+1794	Rodríguez 	Ana Maria	Medellín	Diseño	Docente	$2,300,000 	12/18/1984	10/18/1968
+1814	Carmona 	Andrea	Monteria	Ingeniería	Docente	$3,200,000 	3/4/1989	8/17/1969
+1556	Peláez	Andrés	Medellín	Ingeniería	Docente	$3,200,000 	11/26/1981	9/11/1965
+1531	Alzate	Angela	Monteria	Ingeniería	Técnico	$2,800,000 	5/11/1986	1/19/1967
+1154	Pulgarin	Angelina	Monteria	Ingeniería	Administrativo	$4,100,000 	7/7/1987	11/7/1955
+1284	Merizalde	Antonio	Palmira	Diseño	Docente	$3,200,000 	1/4/1985	12/11/1962
+1922	Henao	Barbara	Bucaramanga	Ingeniería	Docente	$2,100,000 	12/5/1986	2/24/1961
+1294	Aguirre	Brenda	Monteria	Ingeniería	Docente	$3,200,000 	9/6/1984	9/5/1954
+1966	Dominguez 	Camila	Bogotá	Derecho	Docente investigador	$3,900,000 	11/17/1991	5/4/1969
+1695	Berrio	Camilo	Palmira	Diseño	Docente	$3,200,000 	10/20/1984	1/5/1960
+1300	Gomez	Carlos	Medellín	Medicina	Administrativo	$2,300,000 	12/13/1989	9/24/1965
+1975	Posada	Carlos	Bogotá	Derecho	Docente	$3,200,000 	5/7/1991	9/28/1970
+1291	Uribe	Carmen	Medellín	Administración	Aux. Administrativo	$1,350,000 	12/26/1984	4/14/1956
+1333	Cano	Carolina	Medellín	Ingeniería	Docente	$3,200,000 	4/16/1990	10/7/1965
+1299	Osorio	Catalina	Bogotá	Derecho	Docente	$3,200,000 	12/21/1989	9/13/1965
+1696	Higuita	Cathy	Bogotá	Derecho	Docente	$3,200,000 	10/12/1984	1/16/1940
+1721	Cock	Cristina	Medellín	Diseño	Administrativo	$2,960,000 	7/29/1990	5/21/1965
+1067	Lemos	Dalia	Medellín	Diseño	Técnico	$1,100,000 	9/20/1987	9/30/1961
+1530	Ospina	Daniel	Medellín	Administración	Docente	$1,460,000 	1/20/1991	1/15/1967
+1658	Franco	Daniela	Palmira	Administración	Docente	$3,200,000 	6/6/1988	10/14/1963
+1427	Jaramillo	David	Bogotá	Publicidad	Docente investigador	$3,400,000 	8/31/1977	3/19/1958
+1674	Lemus	David	Palmira	Diseño	Docente	$3,200,000 	4/8/1990	9/12/1962
+1815	Caro	Diana	Medellín	Ingeniería	Administrativo	$5,600,000 	2/25/1980	8/28/1959
+1303	Lopez	Dinara	Bucaramanga	Ingeniería	Administrativo	$5,600,000 	3/3/1988	7/10/1955
+1932	Garces	Elena	Medellín	Administración	Administrativo	$2,400,000 	6/12/1989	6/8/1949
+1079	Perez	Elena	Medellín	Administración	Docente	$1,350,000 	3/24/1986	12/2/1962
+1330	Ramirez	Eliana	Palmira	Administración	Docente	$3,200,000 	2/14/1989	5/17/1964
+1302	Mota	Elisa	Bucaramanga	Ingeniería	Docente	$3,800,000 	7/29/1984	7/6/1955
+1723	Giraldo	Esteban	Monteria	Ingeniería	Aux. Administrativo	$1,350,000 	8/6/1990	5/10/1965
+1671	Villegas	Estefania	Palmira	Administración	Docente	$3,200,000 	3/25/1992	1/17/1964
+1370	Diaz 	Evelyn	Bogotá	Publicidad	Docente investigador	$3,600,000 	11/27/1987	5/23/1959
+1977	Arroyave	Federico	Medellín	Diseño	Técnico	$1,300,000 	6/13/1980	9/15/1967
+1931	Arango	Felipe	Medellín	Administración	Administrativo	$2,560,000 	6/20/1989	5/28/1969
+1960	Girando	Felipe	Medellín	Administración	Aux. Administrativo	$1,350,000 	11/13/1986	3/22/1965
+1285	Arias	Francisco	Palmira	Diseño	Docente	$3,200,000 	12/27/1984	12/22/1962
+1353	Rodas	Gabriel	Bogotá	Publicidad	Docente investigador	$3,600,000 	9/10/1982	8/2/1958
+1428	Tamayo	Gloria	Monteria	Ingeniería	Docente	$3,200,000 	11/12/1986	3/23/1958
+1793	Betancur	Gonzalo	Bucaramanga	Administración	Docente	$1,350,000 	12/16/1990	10/14/1968
+1516	Fernandez	Guillermo	Palmira	Administración	Docente	$4,500,000 	3/6/1985	6/26/1963
+1360	Mendez	Gustavo	Medellín	Ingeniería	Docente	$4,000,000 	8/1/1988	6/18/1960
+1962	Rodriguez	Hilda	Bucaramanga	Administración	Docente	$2,900,000 	10/22/1987	4/6/1945
+1292	Salamanca	Isabel	Medellín	Diseño	Administrativo	$4,350,000 	11/20/1987	4/18/1956
+1722	Marquez	Isabella	Bucaramanga	Administración	Administrativo	$5,600,000 	2/12/1978	5/26/1955
+1080	Bustos	Jacobo	Bogotá	Publicidad	Docente investigador	$3,700,000 	10/29/1988	12/6/1952
+1056	Santana	Javier	Monteria	Comunicación	Administrativo	$5,600,000 	10/25/1979	8/24/1937
+1968	Burgos	Jeronimo	Palmira	Administración	Administrativo	$3,200,000 	4/5/1982	9/28/1951
+1510	Marquez	Jessica	Medellín	Ingeniería	Docente	$4,800,000 	6/11/1985	11/4/1962
+1311	Bermudez	Jesus	Medellín	Diseño	Docente	$3,800,000 	9/26/1986	11/13/1964
+1076	Idarraga	Jorge	Monteria	Ingeniería	Aux. Administrativo	$1,200,000 	7/30/1979	9/8/1940
+1672	Zea 	Jorge	Monteria	Comunicación	Docente	$6,500,000 	10/26/1981	9/1/1969
+1657	Carmona	Jose	Palmira	Administración	Docente	$3,200,000 	12/6/1987	10/10/1963
+1167	Arango	Juan	Medellín	Diseño	Administrativo	$5,600,000 	4/18/1991	6/27/1970
+1677	Hernandez 	Juan	Bogotá	Publicidad	Docente investigador	$3,700,000 	11/6/1987	9/16/1969
+1012	Duque	Julian	Medellín	Ingeniería	Docente	$2,400,000 	1/26/1986	12/2/1964
+1331	Castrillón	Juliana	Bucaramanga	Ingeniería	Docente	$3,100,000 	5/11/1989	5/21/1964
+1329	Osorio	Julieth	Medellín	Medicina	Docente	$3,500,000 	2/22/1989	5/6/1964
+1517	Restrepo	Karen	Palmira	Diseño	Aux. Administrativo	$1,500,000 	2/26/1985	7/7/1963
+1293	Jimenez	Karina	Medellín	Ingeniería	Técnico	$1,700,000 	9/14/1984	8/25/1954
+1969	Molina	Karla	Bucaramanga	Administración	Aux. Técnico	$980,000 	4/14/1989	10/2/1951
+1518	Vasquez	Leonardo	Bucaramanga	Ingeniería	Docente	$2,600,000 	6/18/1990	7/11/1963
+1572	Villamizar	Lina	Medellín	Medicina	Docente	$3,600,000 	7/15/1988	5/20/1960
+1923	Guerra	Lisa	Medellín	Diseño	Docente	$2,300,000 	11/27/1986	3/7/1961
+1978	Diaz 	Lucero	Monteria	Ingeniería	Docente	$3,200,000 	6/5/1980	9/26/1967
+1675	Melano	Luis	Medellín	Administración	Docente	$1,350,000 	3/17/1992	1/28/1964
+1950	Granda	Luisa	Medellín	Diseño	Docente	$4,900,000 	10/4/1981	3/9/1951
+1011	Sierra	Luisa	Medellín	Administración	Docente	$2,700,000 	2/3/1986	11/21/1964
+1352	Toro	Manuel	Bucaramanga	Ingeniería	Docente	$1,980,000 	9/18/1982	7/22/1958
+1304	Casadiegos	Manuela	Medellín	Diseño	Aux. Administrativo	$1,350,000 	8/6/1984	6/25/1965
+1573	De santis	Marcela	Palmira	Administración	Aux. Administrativo	$1,500,000 	7/7/1988	5/31/1960
+1168	Lema	Maria	Medellín	Ingeniería	Aux. Administrativo	$1,350,000 	4/10/1991	7/8/1970
+1964	Diaz 	Mariana	Monteria	Comunicación	Docente	$3,200,000 	1/1/1993	5/19/1969
+1529	Gomez	Mariana	Bogotá	Publicidad	Docente	$3,200,000 	1/28/1987	1/4/1967
+1301	Muñoz	Maritza	Medellín	Ingeniería	Docente	$3,200,000 	1/9/1986	9/28/1955
+1759	Arango	Mauricio	Bogotá	Derecho	Docente	$4,700,000 	3/10/1982	11/3/1962
+1907	Acevedo	Melina	Medellín	Diseño	Administrativo	$2,600,000 	9/20/1989	9/13/1960
+1758	Uribe	Melisa	Medellín	Medicina	Técnico	$1,900,000 	3/18/1982	10/23/1962
+1933	Sanchez	Miguel	Medellín	Ingeniería	Docente	$3,200,000 	1/8/1984	6/12/1949
+1054	Suarez	Miguel	Bogotá	Derecho	Docente investigador	$4,100,000 	4/16/1991	8/9/1967
+1792	Arango 	Monica	Medellín	Diseño	Técnico	$2,000,000 	12/24/1990	10/3/1968
+1169	Castro	Monica	Medellín	Medicina	Administrativo	$5,700,000 	10/13/1992	7/12/1970
+1075	Aristizabal	Natalia	Bogotá	Derecho	Docente investigador	$3,200,000 	8/7/1992	8/28/1969
+1290	Cifuentes	Oscar	Medellín	Administración	Docente	$1,350,000 	1/3/1985	4/3/1966
+1426	Rojas 	Pablo	Bucaramanga	Administración	Docente	$5,600,000 	9/8/1977	3/9/1968
+1509	Serna	Pamela	Bucaramanga	Ingeniería	Aux. Administrativo	$1,350,000 	6/19/1985	10/24/1962
+1908	Diez	Patricia	Medellín	Administración	Administrativo	$5,600,000 	5/15/1984	9/21/1958
+1949	Palacio	Paula	Medellín	Diseño	Docente	$4,100,000 	10/12/1981	2/26/1951
+1078	Cortes	Rafael	Palmira	Diseño	Administrativo	$4,200,000 	4/1/1986	11/21/1962
+1361	Medina	Raquel	Medellín	Medicina	Docente	$2,940,000 	7/22/1988	6/22/1960
+1906	Toledo	Roberta	Medellín	Diseño	Aux. Administrativo	$1,350,000 	9/28/1989	9/2/1960
+1574	Rico	Samuel	Medellín	Ingeniería	Docente	$3,200,000 	2/9/1986	6/4/1960
+1369	Cano	Sandra	Bogotá	Publicidad	Administrativo	$4,200,000 	3/3/1983	5/19/1959
+1965	Betancurt	Santiago	Bucaramanga	Administración	Aux. Administrativo	$1,350,000 	11/9/1991	5/15/1969
+1961	Jaramillo	Santiago	Medellín	Administración	Docente	$1,350,000 	11/5/1986	4/2/1965
+1359	Vallejo	Sara	Medellín	Diseño	Docente	$2,300,000 	8/9/1990	6/7/1960
+1676	Carmona	Sebastian	Medellín	Administración	Docente	$1,500,000 	10/18/1981	9/12/1969
+1725	Posada	Sergio	Monteria	Comunicación	Docente	$5,600,000 	2/2/1978	6/2/1954
+1557	Gracía	Simón	Medellín	Medicina	Aux. Administrativo	$1,390,000 	11/18/1981	9/22/1965
+1558	Marulanda	Sofia	Medellín	Diseño	Docente	$2,300,000 	10/16/1982	9/26/1965
+1673	Zapata	Stepania	Bucaramanga	Ingeniería	Docente	$1,350,000 	4/16/1990	9/1/1962
+1354	Ruiz	Susana	Bogotá	Derecho	Administrativo	$3,200,000 	5/6/1986	8/6/1948
+1368	Mendez	Tammy	Medellín	Administración	Docente	$1,280,000 	3/11/1983	5/8/1959
+1656	Arango	Tatiana	Medellín	Diseño	Administrativo	$2,500,000 	12/14/1987	9/29/1963
+1153	Ramirez	Tomas	Medellín	Administración	Técnico	$1,350,000 	1/13/1990	11/3/1965
+1967	Hincapie	Victoria	Bucaramanga	Administración	Docente	$4,600,000 	4/13/1982	9/17/1951
+1979	Saldarriaga	Virginia	Monteria	Comunicación	Docente	$4,200,000 	9/9/1991	10/13/1960

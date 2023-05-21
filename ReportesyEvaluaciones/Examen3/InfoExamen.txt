@@ -1,0 +1,14 @@
+Matricula: 38192811
+Nombre: Juan Carlos García Murillo
+Fecha: 13 de junio 2020
+
+Ubicacion de las clases creadas:
+
+ArbolProbabilidad.java (paquete ednolineal).
+VariableBayesiana.java (paquete catalogos).
+RedBayesiana.java (paquete utilidades).
+PantallaRedBayesiana.java (paquete vistas).
+PruebaRedBayesiana.java (paquete interfaces). [CONTENEDOR DEL MAIN DEL PROGRAMA]
+
+En el mismo directorio de este .txt se incluye la imagen del diagrama de clases para
+la revisión de los métodos de cada clase.

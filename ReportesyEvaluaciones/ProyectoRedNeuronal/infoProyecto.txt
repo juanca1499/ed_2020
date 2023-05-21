@@ -1,0 +1,43 @@
+Matricula: 38192811
+Nombre: Juan Carlos García Murillo
+Fecha: 22 de junio de 2020
+
+<<UBICACIÓN DE LAS CLASES CREADAS>>
+
+[Se creó un nuevo paquete de nombre 'ia')
+CLASES EN EL PAQUETE 'ia'
+RedNeuronal.java 
+RedNeuronalPrediccion.java 
+RedNeuronalClasificacion.java 
+CapaRedNeuronal.java 
+Neurona.java
+
+CLASES EN EL PAQUETE 'matematicas'
+FuncionLineal.java
+FuncionSigmod.java
+FuncionSoftMax.java
+FuncionPerdida.java
+
+CLASES EN EL PAQUETE 'utilidades'
+TipoFuncionActivacion.java <<enum>>
+NumeroAleatorio.java
+
+CLASES EN EL PAQUETE 'interfaces'
+PruebaRedNeuronalPrediccion. java [PRUEBAS PARA LA RED NEURONAL PEQUEÑA O DE PREDICCION]
+PruebaRedNeuronalClasificacion.java [PRUEBAS PARA LA RED NEURONAL 
+DEL PROYECTO O DE CLASIFICACION]
+
+<<UBICACIÓN DE LAS CLASES MODIFICADAS>>
+
+CLASES EN EL PAQUETE 'edlineal'
+Arreglo.java
+VectorNum.java
+Matriz.java
+MatrizNum.java
+ListaDobleLigada.java
+
+CLASE EN EL PAQUETE 'utilidades'
+Casteador.java
+
+En el mismo directorio de este .txt se incluye la imagen del diagrama de clases para
+la revisión de los métodos de cada clase.

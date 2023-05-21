@@ -1,0 +1,9 @@
+Nombre: Juan Carlos García Murillo
+Fecha: 19 de marzo 2019
+
+En la parte III del examen cree las siguientes clases:
+	ListaEnlazadaIndexada: paquete edlineal.
+	NodoDobleIndexado: paquete catalogos.
+	PruebaListaDobleIndexada: paquete interfaces.
+
+(La ultima clase es donde se encuentran las pruebas de la parte III).
